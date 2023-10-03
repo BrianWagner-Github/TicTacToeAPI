@@ -1,0 +1,11 @@
+C:\Intel\Logs\tic-tac-toe-api-master\TicTacToe\obj\Release\netcoreapp2.1\PubTmp\Out\TicTacToe.config
+C:\Intel\Logs\tic-tac-toe-api-master\TicTacToe\obj\Release\netcoreapp2.1\PubTmp\Out\appsettings.Development.json
+C:\Intel\Logs\tic-tac-toe-api-master\TicTacToe\obj\Release\netcoreapp2.1\PubTmp\Out\appsettings.json
+C:\Intel\Logs\tic-tac-toe-api-master\TicTacToe\obj\Release\netcoreapp2.1\PubTmp\Out\TicTacToe.dll
+C:\Intel\Logs\tic-tac-toe-api-master\TicTacToe\obj\Release\netcoreapp2.1\PubTmp\Out\TicTacToe.runtimeconfig.json
+C:\Intel\Logs\tic-tac-toe-api-master\TicTacToe\obj\Release\netcoreapp2.1\PubTmp\Out\TicTacToe.pdb
+C:\Intel\Logs\tic-tac-toe-api-master\TicTacToe\obj\Release\netcoreapp2.1\PubTmp\Out\Swashbuckle.AspNetCore.dll
+C:\Intel\Logs\tic-tac-toe-api-master\TicTacToe\obj\Release\netcoreapp2.1\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Intel\Logs\tic-tac-toe-api-master\TicTacToe\obj\Release\netcoreapp2.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Intel\Logs\tic-tac-toe-api-master\TicTacToe\obj\Release\netcoreapp2.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Intel\Logs\tic-tac-toe-api-master\TicTacToe\obj\Release\netcoreapp2.1\PubTmp\Out\TicTacToe.deps.json
